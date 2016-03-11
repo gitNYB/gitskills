@@ -1,2 +1,3 @@
 # gitskills
-We have a new computer & a mousce.
+we have a new computer and a mousce.
+
