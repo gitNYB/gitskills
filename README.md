@@ -1,3 +1,4 @@
 # gitskills
-we have a new computer and a mousce.
+we have a new computer & a mousce.
 
+You know nothing,Jone Snow.
