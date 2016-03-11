@@ -1,2 +1,2 @@
 # gitskills
-anywords
+We have a new computer & a mousce.
